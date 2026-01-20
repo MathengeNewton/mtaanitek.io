@@ -1,6 +1,6 @@
 # Week 1 Planning Document - Mtaa App Build Series
 
-**Date:** [Today's Date]  
+**Date:** Jan 20th 2026 
 **Session Time:** 2:00 PM - 4:30 PM  
 **Goal:** Plan Week 1 deliverables and prepare for tomorrow's recording
 
